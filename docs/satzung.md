@@ -225,7 +225,7 @@ Das Geschäftsjahr ist das Kalenderjahr.
 
 Die vorstehende Satzung mit Anhang tritt mit sofortiger Wirkung an die Stelle der bisherigen Vereinssatzung.
 
-Beilstein, den 21.08.1995
+Beilstein, den 15.05.1997
 Armin Maurer, Christian Schlepple
 
 Die Eintragung in das Vereinsregister Nr. 1009 wurde heute vollzogen. Heilbronn, 25. Februar 1981 – Amtsgericht – Registergericht gez. Hofmann, RPfl
