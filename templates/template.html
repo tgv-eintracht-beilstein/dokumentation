@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Running footer (placed into @page margin via CSS running()) -->
+    <div class="page-footer">
+        {% if footer_logo_uri %}
+        <img class="footer-logo" src="{{ footer_logo_uri }}" alt="">
+        {% endif %}
+        <div class="footer-center">
+            <span class="footer-title">{{ title }}</span><br>
+            <span class="footer-club">TGV Eintracht Beilstein 1823 e.V.</span>
+            <span class="footer-date"> · {{ build_month_year }}</span>
+        </div>
+        <div class="footer-page"></div>
+    </div>
+
+    <!-- Cover page -->
+    <div class="cover">
+        <div class="red-band">
+            <div class="band-text">
+                <h1>{{ title }}</h1>
+                <div class="club-name">TGV Eintracht Beilstein 1823 e.V.</div>
+                <div class="cover-date">Stand: {{ build_month_year }}</div>
+            </div>
+        </div>
+        {% if logo_path %}
+        <img class="logo" src="{{ logo_path }}" alt="TGV Logo">
+        {% endif %}
+    </div>
+
+    <!-- Preface (conditional) -->
+    {% if preface %}
+    <div class="preface">
+        <h2>Vorwort</h2>
+        <p>{{ preface }}</p>
+    </div>
+    {% endif %}
+
+    <!-- Table of contents -->
+    {% if toc %}
+    <div class="toc-page">
+        <div class="toc-left-border"></div>
+        {% if logo_path %}
+        <img class="toc-logo" src="{{ logo_path }}" alt="TGV Logo">
+        {% endif %}
+        <div class="toc-content">
+            <h2 class="toc-heading">INHALTSÜBERSICHT</h2>
+            {% for section in toc %}
+            <div class="toc-entry">
+                <a href="#{{ section.id }}">{{ section.number }}. {{ section.title }}</a>
+            </div>
+            {% endfor %}
+            <div class="toc-date">Stand: {{ build_date }}</div>
+        </div>
+    </div>
+    {% endif %}
+
+    <!-- Document content -->
+    <div class="content">
+        {{ body_html | safe }}
+    </div>
+
+    <!-- Change history (conditional) -->
+    {% if history %}
+    <div class="history-section">
+        <h2>Änderungshistorie</h2>
+        <table class="history">
+            <thead>
+                <tr>
+                    <th>Datum</th>
+                    <th>Autor</th>
+                    <th>Änderung</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for entry in history %}
+                <tr>
+                    <td>{{ entry.date }}</td>
+                    <td>{{ entry.author }}</td>
+                    <td>{{ entry.message }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+    {% endif %}
+
+</body>
+</html>

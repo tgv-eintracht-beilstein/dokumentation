@@ -1,0 +1,285 @@
+/* Source Sans Pro font faces */
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('../assets/fonts/SourceSansPro-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('../assets/fonts/SourceSansPro-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('../assets/fonts/SourceSansPro-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Source Sans Pro';
+    src: url('../assets/fonts/SourceSansPro-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+
+/* Page setup */
+@page {
+    size: A4;
+    margin: 2.5cm 2cm 2.8cm 2cm;
+    @bottom-left {
+        content: element(page-footer);
+        width: 100%;
+        height: 1.8cm;
+    }
+    @bottom-center { content: none; }
+    @bottom-right { content: none; }
+}
+
+@page :first {
+    @bottom-left { content: none; }
+}
+
+/* Running footer element */
+.page-footer {
+    position: running(page-footer);
+    display: flex;
+    align-items: center;
+    gap: 10pt;
+    border-top: 0.5pt solid #ccc;
+    padding-top: 6pt;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 8pt;
+    color: #666;
+}
+.page-footer .footer-logo {
+    height: 22pt;
+    width: auto;
+    flex-shrink: 0;
+}
+.page-footer .footer-center {
+    flex: 1;
+    text-align: left;
+    line-height: 1.3;
+}
+.page-footer .footer-title {
+    font-weight: 700;
+    color: #333;
+}
+.page-footer .footer-club {
+    font-weight: 300;
+}
+.page-footer .footer-date {
+    font-weight: 300;
+}
+.page-footer .footer-page {
+    flex-shrink: 0;
+    text-align: right;
+    font-size: 8pt;
+    color: #666;
+}
+.page-footer .footer-page::after {
+    content: counter(page);
+}
+
+/* Base */
+html, body {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 11pt;
+    line-height: 1.4;
+    color: #000;
+    background: #fff;
+}
+
+/* Cover page */
+.cover {
+    page-break-after: always;
+    position: relative;
+    height: 100%;
+    background: #fff;
+}
+.cover img.logo {
+    position: absolute;
+    top: 5.6cm;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 130px;
+    z-index: 2;
+}
+.cover .red-band {
+    position: absolute;
+    top: 8cm;
+    left: -2cm;
+    right: -2cm;
+    background: #D8212A;
+    padding: 1.8cm 2cm;
+    text-align: center;
+    z-index: 1;
+}
+.cover h1 {
+    font-size: 26pt;
+    font-weight: 700;
+    color: #fff;
+    margin: 0;
+    text-transform: uppercase;
+    letter-spacing: 0.02em;
+}
+.cover .club-name {
+    font-size: 11pt;
+    font-weight: 300;
+    color: #fff;
+    margin-top: 0.3em;
+}
+.cover .cover-date {
+    font-size: 10pt;
+    font-weight: 300;
+    color: rgba(255, 255, 255, 0.85);
+    margin-top: 0.5em;
+}
+
+/* Preface page */
+.preface {
+    page-break-after: always;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    height: 100%;
+}
+.preface h2 {
+    font-size: 18pt;
+    margin-bottom: 1em;
+}
+.preface p {
+    font-size: 12pt;
+    text-align: center;
+    max-width: 80%;
+}
+
+/* Headings — light weight for that slick look */
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+    color: #D8212A;
+    margin-top: 1.2em;
+    margin-bottom: 0.4em;
+}
+h1 { font-size: 22pt; page-break-before: always; }
+.content > h1:first-child { page-break-before: avoid; }
+h2 { font-size: 16pt; }
+h3 { font-size: 13pt; }
+h4 { font-size: 11pt; font-weight: 400; }
+
+/* Body content */
+.content {
+    page-break-before: avoid;
+}
+
+/* Table of contents */
+.toc-page {
+    page-break-after: always;
+    position: relative;
+    min-height: 100%;
+}
+.toc-left-border {
+    position: absolute;
+    top: -2.5cm;
+    left: -2cm;
+    bottom: -2.8cm;
+    width: 12px;
+    background: #D8212A;
+}
+.toc-logo {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 90px;
+}
+.toc-content {
+    padding-top: 0.5cm;
+    padding-right: 120px;
+}
+.toc-heading {
+    font-size: 14pt;
+    font-weight: 700;
+    color: #000;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    margin-bottom: 1.2em;
+    letter-spacing: 0.05em;
+}
+.toc-section {
+    margin-bottom: 1em;
+}
+.toc-entry a {
+    display: block;
+    text-decoration: none;
+    color: #000;
+    font-size: 11pt;
+    font-weight: 700;
+    line-height: 2;
+}
+.toc-entry a::after {
+    content: leader(dotted) target-counter(attr(href), page);
+}
+.toc-date {
+    margin-top: 2em;
+    font-size: 10pt;
+    color: #000;
+}
+p {
+    margin: 0.4em 0;
+    text-align: justify;
+}
+hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 1.5em 0;
+}
+
+/* Lists */
+ol, ul {
+    margin: 0.3em 0;
+    padding-left: 1.5em;
+}
+ol ol, ul ul, ol ul, ul ol {
+    margin: 0.1em 0;
+}
+li {
+    margin: 0.15em 0;
+}
+
+/* Change history table */
+.history-section {
+    page-break-before: always;
+    margin-top: 2em;
+}
+.history-section h2 {
+    font-size: 14pt;
+    margin-bottom: 0.8em;
+}
+table.history {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 9pt;
+}
+table.history th {
+    background: #D8212A;
+    color: #fff;
+    font-weight: 400;
+    text-align: left;
+    padding: 6px 8px;
+}
+table.history td {
+    padding: 5px 8px;
+    border-bottom: 0.5pt solid #eee;
+}
+table.history tr:nth-child(even) td {
+    background: #fafafa;
+}
+
+/* Bold text styling */
+strong {
+    font-weight: 700;
+}
