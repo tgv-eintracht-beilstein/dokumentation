@@ -174,7 +174,7 @@ Satzung
 4.  Ordnungen
     1.  Zur Durchführung dieser Satzung kann sich der Verein eine Geschäftsordnung, eine Finanzordnung, eine Beitragsordnung, eine Ehrenordnung und eine Benutzungsordnung geben. Der Hauptausschuss ist für den Erlass der Ordnungen zuständig. Ausgenommen davon sind die Geschäftsordnung, die vom erweiterten Vorstand zu beschließen ist sowie die Jugendordnung, die von der Vereinsjugend zu beschließen und vom Hauptausschuss zu bestätigen ist.
     2.  Der Verein erlässt eine Datenschutzordnung, in der weitere Einzelheiten der Datenerhebung und der Datenverwendung sowie technische und organisatorische Maßnahmen zum Schutz der Daten aufgeführt sind. Die Datenschutzordnung wird auf Vorschlag des Vorstands durch die Mitgliederversammlung beschlossen.        
-5.  Regelungen zum Datenschutz
+5.  Datenschutz
     1.  Unter Beachtung der gesetzlichen Vorgaben und Bestimmungen der EU- Datenschutz-Grundverordnung (DSGVO) und des Bundesdaten- schutzgesetzes (BDSG) werden zur Erfüllung der Zwecke und Aufgaben des Vereins personenbezogene Daten über persönliche und sachliche Verhältnisse der Mitglieder des Vereins erhoben und in dem vereinseigenen EDV-System gespeichert, genutzt und verarbeitet.
     2.  Mit dem Betritt eines Mitgliedes nimmt der Verein alle für die Mitgliedschaft im Verein relevanten Daten (Name, Anschrift, Geburtsdatum, Bankverbindung) auf. Diese Informationen werden in dem vereinseigenen EDV-System gespeichert. Jedem Vereinsmitglied wird eine Mitgliedsnummer zugeordnet. Die personenbezogenen Daten werden dabei durch geeignete technische und organisatorische Maßnahmen vor der Kenntnisnahme Dritter geschützt.
     3.  Sonstige Informationen zu den Mitgliedern und Informationen über Nichtmitglieder werden grundsätzlich nur verarbeitet oder genutzt, wenn sie zur Förderung des Vereinszwecks nützlich sind (wie etwa Telefon, Fax und E-Mail) und keine Anhaltspunkte bestehen, dass die betroffene Person ein schutzwürdiges Interesse hat, das der Verarbeitung oder Nutzung entgegensteht. Absatz (2) Satz 4 gilt entsprechend.
@@ -244,4 +244,4 @@ Schwimmverband Württemberg e. V. Stuttgart
 Württembergischer Tennis-Bund e. V. Stuttgart  
 Tischtennisverband Württemberg Hohenzollern e. V.
 
-Druckdatum: 5. Februar 2015
+Druckdatum: 1. Februar 2019
