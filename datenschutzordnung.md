@@ -1,0 +1,44 @@
+Vorbemerkung
+============
+
+Der TGV Eintracht Beiilstein 1823 e.V. verarbeitet in vielfacher Weise automatisiert personenbezogene Daten (z.B. im Rahmen der Vereinsverwaltung, der Organisation des Sportbetriebs, der Öffentlichkeitsarbeit des Vereins). Um die Vorgaben der EU-Datenschutz-Grundverordnung und des Bundesdatenschutzgesetzes zu erfüllen, Datenschutzverstöße zu vermeiden und einen einheitlichen Umgang mit personenbezogenen Daten innerhalb des Vereins zu gewährleisten, gibt sich der Verein die nachfolgende Datenschutzordnung.
+
+* * *
+
+Datenschutzsordnung
+===============
+
+1. Allgemeines
+  Der Verein verarbeitet personenbezogene Daten u.a. von Mitgliedern, Teilnehmerinnen und Teilnehmern am Sport- und Kursbetrieb und Mitarbeiterinnen und Mitarbeitern sowohl automatisiert in EDV-Anlagen als auch nicht automatisiert in einem Dateisystem, z.B. in Form von ausgedruckten Listen. Darüber hinaus werden personenbezogene Daten im Internet veröffentlicht und an Dritte weitergeleitet oder Dritten offengelegt. In all diesen Fällen ist die EU-Datenschutz-Grundverordnung, das Bundesdatenschutzgesetz und diese Datenschutzordnung durch alle Personen im Verein, die personenbezogene Daten verarbeiten, zu beachten.
+2. Verarbeitung personenbezogener Daten der Mitglieder
+  1. Der Verein verarbeitet die Daten unterschiedlicher Kategorien von Personen. Für jede Kategorie von betroffenen Personen wird im Verzeichnis der Verarbeitungstätigkeiten ein Einzelblatt angelegt.
+  2. Im Rahmen des Mitgliedschaftsverhältnisses verarbeitet der Verein insbesondere die folgenden Daten der Mitglieder: Geschlecht, Vorname, Nachname, Anschrift (Straße, Hausnummer, Postleitzahl, Ort), Geburtsdatum, Datum des Vereinsbeitritts, Abteilungs- und ggf. Mannschaftszugehörigkeit, Bankverbindung, ggf. die Namen und Kontaktdaten der gesetzlichen Vertreter, Telefonnummern und E-Mail-Adressen, ggf. Funktion im Verein, ggf. Haushalts- und Familienzugehörigkeit bei Zuordnung zum Familienbeitrag.
+  3. Im Rahmen der Zugehörigkeit zu den Landesverbänden, deren Sportarten im Verein betrieben werden, werden personenbezogene Daten der Mitglieder an diese weitergeleitet, soweit die Mitglieder eine Berechtigung zur Teilnahme am Wettkampfbetrieb der Verbände beantragen (z.B. Startpass, Spielerpass, Lizenz) und an solchen Veranstaltungen teilnehmen. (Ergänzung: Weiterleitung personenbezogener Daten der Mitglieder an den zuständigen Landessportbund/Landessportverband - siehe Satzungsbausteine).
+3. Datenverarbeitung im Rahmen der Öffentlichkeitsarbeit
+  1. Im Rahmen der Öffentlichkeitsarbeit über Vereinsaktivitäten werden personenbezogene Daten in Aushängen, in der Vereinszeitung und in Internetauftritten veröffentlicht und an die Presse weitergegeben.
+  2. Hierzu zählen insbesondere die Daten, die aus allgemein zugänglichen Quellen stammen: T eilnehmer an sportlichen Veranstaltungen, Mannschaftsaufstellung, Ergebnisse, Torschützen, Alter oder Geburtsjahrgang.
+  3. Die Veröffentlichung von Fotos und Videos, die außerhalb öffentlicher Veranstaltungen gemacht wurden, erfolgt ausschließlich auf Grundlage einer Einwilligung der abgebildeten Personen.
+  4. Auf der Internetseite des Vereins werden die Daten der Mitglieder des Vorstands, der Abteilungsleiterinnen und Abteilungsleiter und der Übungsleiterinnen und Übungsleiter mit Vorname, Nachname, Funktion, E-Mail-Adresse und Telefonnummer veröffentlicht.
+4. Zuständigkeiten für die Datenverarbeitung im Verein
+  Verantwortlich für die Einhaltung der datenschutzrechtlichen Vorgaben ist der Vorstand nach § 26 BGB. Funktional ist die Aufgabe dem Ressort Allgemeine Verwaltung (alt: z.B. dem Geschäftsführer) zugeordnet, soweit die Satzung oder diese Ordnung nicht etwas Abweichendes regelt.
+  Der Ressortleiter Allgemeine Verwaltung stellt sicher, dass Verzeichnisse der Verarbeitungstätigkeiten nach Art. 30 DSGVO geführt und die Informationspflichten nach Art. 13 und 14 DSGVO erfüllt werden. Er ist für die Beantwortung von Auskunftsverlangen von betroffenen Personen zuständig.
+5. Verwendung und Herausgabe von Mitgliederdaten und -listen
+  1. Listen von Mitgliedern oder Teilnehmern werden den jeweiligen Mitarbeiterinnen und Mitarbeitern im Verein (z.B. Vorstandsmitgliedern, Abteilungsleitern, Übungsleitern) insofern zur Verfügung gestellt, wie es die jeweilige Aufgabenstellung erfordert. Beim Umfang der dabei verwendeten personenbezogenen Daten ist das Gebot der Datensparsamkeit zu beachten.
+  2. Personenbezogene Daten von Mitgliedern dürfen an andere Vereinsmitglieder nur herausgegeben werden, wenn die Einwilligung der betroffenen Person vorliegt. Die Nutzung von Teilnehmerlisten, in die sich die Teilnehmer von Versammlungen und anderen Veranstaltungen zum Beispiel zum Nachweis der Anwesenheit eintragen, gilt nicht als eine solche Herausgabe.
+  3. Macht ein Mitglied glaubhaft, dass es eine Mitgliederliste zur Wahrnehmung satzungsgemäßer oder gesetzlicher Rechte benötigt (z.B. um die Einberufung einer Mitgliederversammlung im Rahmen des Minderheitenbegehrens zu beantragen), stellt der Vorstand eine Kopie der Mitgliederliste mit Vornamen, Nachnamen und Anschrift als Ausdruck oder als Datei zur Verfügung. Das Mitglied, welches das Minderheitenbegehren initiiert, hat vorher eine Versicherung abzugeben, dass diese Daten ausschließlich für diesen Zweck verwendet und nach der Verwendung vernichtet werden.
+6. Kommunikation per E-Mail
+  1. Für die Kommunikation per E-Mail richtet der Verein einen vereinseigenen E-Mail-Account ein, der im Rahmen der vereinsinternen Kommunikation ausschließlich zu nutzen ist.
+  2. Beim Versand von E-Mails an eine Vielzahl von Personen, die nicht in einem ständigen Kontakt per E-Mail untereinander stehen und/oder deren private E-Mail-Accounts verwendet werden, sind die E-Mail-Adressen als „bcc“ zu versenden.
+7. Verpflichtung auf die Vertraulichkeit
+  Alle Mitarbeiterinnen und Mitarbeiter im Verein, die Umgang mit personenbezogenen Daten haben (z.B. Mitglieder des Vorstands, Abteilungsleiterinnen und Abteilungsleiter, Übungsleiterinnen und Übungsleiter), sind auf den vertraulichen Umgang mit personenbezogenen Daten zu verpflichten.
+8. Datenschutzbeauftragter
+  Da im Verein in der Regel mindestens 10 Personen ständig mit der automatisierten Verarbeitung personenbezogener Daten beschäftigt sind, hat der Verein einen Datenschutzbeauftragten zu benennen. Die Auswahl und Benennung obliegt dem Vorstand nach § 26 BGB. Der Vorstand hat sicherzustellen, dass die benannte Person über die erforderliche Fachkunde verfügt. Vorrangig ist ein interner Datenschutzbeauftragter zu benennen. Ist aus den Reihen der Mitgliedschaft keine Person bereit, diese Funktion im Rahmen eines Ehrenamtes zu übernehmen, hat der Vorstand nach § 26 BGB einen externen Datenschutzbeauftragten auf der Basis eines Dienstvertrages zu beauftragen. (Alternative: Begründung, aus welchen Gründen der Verein derzeit keinen Datenschutzbeauftragten zu bestellen hat).
+9. Einrichtung und Unterhaltung von Internetauftritten
+  1. Der Verein unterhält zentrale Auftritte für den Gesamtverein. Die Einrichtung und Unterhaltung von Auftritten im Internet obliegt dem Ressortleiter Öffentlichkeitsarbeit. Änderungen dürfen ausschließlich durch den Ressortleiter Öffentlichkeitsarbeit, den Ressortleiter Allgemeine Verwaltung und den Administrator vorgenommen werden.
+  2. Der Ressortleiter Öffentlichkeitsarbeit ist für die Einhaltung der Datenschutzbestimmungen im Zusammenhang mit Online-Auftritten verantwortlich.
+  3. Abteilungen, Gruppen und Mannschaften bedürfen für die Einrichtung eigener Internetauftritte (z.B. Homepage, Facebook, Twitter) der ausdrücklichen Genehmigung des Ressortleiters Öffentlichkeitsarbeit. Für den Betrieb eines Internetauftritts haben die Abteilungen, Gruppen und Mannschaften Verantwortliche zu benennen, denen gegenüber der Ressortleiter Öffentlichkeitsarbeit weisungsbefugt ist. Bei Verstößen gegen datenschutzrechtliche Vorgaben und Missachtung von Weisungen des Ressortleiters Öffentlichkeitsarbeit, kann der Vorstand nach § 26 BGB die Genehmigung für den Betrieb eines Internetauftritts widerrufen. Die Entscheidung des Vorstands nach § 26 BGB ist unanfechtbar.
+10. Verstöße gegen datenschutzrechtliche Vorgaben und diese Ordnung
+  1. Alle Mitarbeiterinnen und Mitarbeiter des Vereins dürfen nur im Rahmen ihrer jeweiligen Befugnisse Daten verarbeiten. Eine eigenmächtige Datenerhebung, -nutzung oder – weitergabe ist untersagt.
+  2. Verstöße gegen allgemeine datenschutzrechtliche Vorgaben und insbesondere gegen diese Datenschutzordnung können gemäß den Sanktionsmitteln, wie sie in der Satzung vorgesehen sind, geahndet werden.
+11. Inkrafttreten
+  Diese Datenschutzordnung wurde durch den Gesamtvorstand des Vereins am 25.05.2018 beschlossen und tritt mit Veröffentlichung auf der Homepage des Vereins in Kraft.
