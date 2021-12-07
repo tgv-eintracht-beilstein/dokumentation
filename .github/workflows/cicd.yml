@@ -25,6 +25,33 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
 
-      # Runs a single command using the runners shell
-      - name: Markdown to PDF
-        uses: valtyr/pandoc-action@v0.1-alpha
+      - name: Pandoc generator - satzung.md
+        uses: Lothindir/pandoc-markdown-action@v0.4
+        with:
+          markdown: "satzung.md"
+          pdf: "satzung"
+          template: "kate,monochrome"    
+      - name: Pandoc generator - beitragsordnung.md
+        uses: Lothindir/pandoc-markdown-action@v0.4
+        with:
+          markdown: "beitragsordnung.md"
+          pdf: "beitragsordnung"
+          template: "kate,monochrome"    
+      - name: Pandoc generator - ehrenordnung.md
+        uses: Lothindir/pandoc-markdown-action@v0.4
+        with:
+          markdown: "ehrenordnung.md"
+          pdf: "ehrenordnung"
+          template: "kate,monochrome"    
+      - name: Pandoc generator - finanzordnung.md
+        uses: Lothindir/pandoc-markdown-action@v0.4
+        with:
+          markdown: "finanzordnung.md"
+          pdf: "finanzordnung"
+          template: "kate,monochrome"    
+      - name: Pandoc generator - jugendordnung.md
+        uses: Lothindir/pandoc-markdown-action@v0.4
+        with:
+          markdown: "jugendordnung.md"
+          pdf: "jugendordnung"
+          template: "kate,monochrome"
