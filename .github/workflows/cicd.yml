@@ -26,32 +26,37 @@ jobs:
       - uses: actions/checkout@v2
 
       - name: Pandoc generator - satzung.md
-        uses: Lothindir/pandoc-markdown-action@v0.4
+        uses: BaileyJM02/markdown-to-pdf@v1
         with:
           markdown: "satzung.md"
+          table_of_contents: true
           pdf: "satzung"
           template: "kate,monochrome"    
       - name: Pandoc generator - beitragsordnung.md
-        uses: Lothindir/pandoc-markdown-action@v0.4
+        uses: BaileyJM02/markdown-to-pdf@v1
         with:
           markdown: "beitragsordnung.md"
+          table_of_contents: true
           pdf: "beitragsordnung"
           template: "kate,monochrome"    
       - name: Pandoc generator - ehrenordnung.md
-        uses: Lothindir/pandoc-markdown-action@v0.4
+        uses: BaileyJM02/markdown-to-pdf@v1
         with:
           markdown: "ehrenordnung.md"
+          table_of_contents: true
           pdf: "ehrenordnung"
           template: "kate,monochrome"    
       - name: Pandoc generator - finanzordnung.md
-        uses: Lothindir/pandoc-markdown-action@v0.4
+        uses: BaileyJM02/markdown-to-pdf@v1
         with:
           markdown: "finanzordnung.md"
+          table_of_contents: true
           pdf: "finanzordnung"
           template: "kate,monochrome"    
       - name: Pandoc generator - jugendordnung.md
-        uses: Lothindir/pandoc-markdown-action@v0.4
+        uses: BaileyJM02/markdown-to-pdf@v1
         with:
           markdown: "jugendordnung.md"
+          table_of_contents: true
           pdf: "jugendordnung"
           template: "kate,monochrome"
