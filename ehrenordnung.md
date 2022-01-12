@@ -1,3 +1,15 @@
+---
+title: Ehrenordnung
+author: TGV Eintracht Beilstein 1823 e.V.
+header-includes: |
+    \usepackage{fancyhdr}
+    \pagestyle{fancy}
+    \fancyfoot[CO,CE]{TGV Eintracht Beilstein 1823 e.V.}
+    \fancyfoot[LE,RO]{\thepage}
+---
+
+\newpage
+
 Vorbemerkung
 ============
 
