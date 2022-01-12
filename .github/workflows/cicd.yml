@@ -27,7 +27,7 @@ jobs:
       - name: 🚧 Build
         uses: valtyr/pandoc-action@v0.1-alpha
       - name: 🏛 Copy
-        run: mkdir dist && cp Dokumente/* dist/
+        run: mkdir dist && cp *.pdf dist/
       - name: 🚀 Deploy
         uses: JamesIves/github-pages-deploy-action@releases/v3
         with:
