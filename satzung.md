@@ -1,14 +1,14 @@
 ---
 title: Satzung
-author: Bernhard Rode
+author: TGV Eintracht Beilstein 1823 e.V.
 header-includes: |
     \usepackage{fancyhdr}
     \pagestyle{fancy}
-    \fancyhead[CO,CE]{This is fancy}
-    \fancyfoot[CO,CE]{So is this}
+    \fancyfoot[CO,CE]{TGV Eintracht Beilstein 1823 e.V.}
     \fancyfoot[LE,RO]{\thepage}
-abstract: This is a pandoc test
 ---
+
+\newpage
 
 Vorbemerkung
 ============
