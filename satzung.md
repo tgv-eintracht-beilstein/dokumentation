@@ -22,13 +22,13 @@ Satzung
 
 1.  Allgemeines
     1.  Name und Sitz
-        
-        Der Name des Vereins lautet:  
-        ****  
+
+        Der Name des Vereins lautet:
+        ****
         Turn- und Gesangverein „Eintracht“ Beilstein 1823 e.V.****
-        
+
         Der Sitz des Vereins ist Beilstein. Der Verein ist im Vereinsregister beim Amtsgericht Stuttgart eingetragen.
-        
+
     2.  Zweck des Vereins
         1.  Zweck des Vereins ist:
             1.  die Förderung des Sports
@@ -74,7 +74,7 @@ Satzung
         5.  Zur Erfüllung ihrer Aufgaben sind die einzelnen Abteilungen berechtigt, von ihren Mitgliedern Abteilungsbeiträge und/oder Arbeitsstunden zu verlangen. Eine solche Regelung bedarf vor ihrer Inkraftsetzung der Genehmigung durch den Hauptausschuss.
         6.  Ehrenmitglieder sind von der Pflicht zur Zahlung von Mitgliedsbeiträgen befreit.
         7.  Der Vorstand ist berechtigt, auf Antrag Beitragserleichterungen zu gewähren.
-        8.  Im Jahr der Volljährigkeit hat das jugendliche Mitglied das Recht die Mitgliedschaft zum Jahresende zu kündigen.  
+        8.  Im Jahr der Volljährigkeit hat das jugendliche Mitglied das Recht die Mitgliedschaft zum Jahresende zu kündigen.
             Minderjährige Vereinsmitglieder werden im Jahr nach ihrem 18. Geburtstag automatisch als erwachsene Mitglieder im Verein geführt und beitragsmäßig veranlagt. Die betroffenen Mitglieder werden rechtzeitig durch den Verein informiert.
     5.  Erlöschen der Mitgliedschaft
         1.  Die Mitgliedschaft erlischt:
@@ -83,9 +83,9 @@ Satzung
             3.  durch freiwilligen Austritt zum Ende des laufenden Jahres unter Einhaltung einer Kündigungsfrist von 30 Tagen. Die Kündigung muss dem Vorstand schriftlich zugestellt werden,
             4.  durch Streichung, wenn das Mitglied trotz zweimaliger schriftlicher Mahnung mit den Beiträgen im Rückstand ist,
             5.  durch Ausschluss.
-        2.  Ein Mitglied kann aus dem Verein ausgeschlossen werden, wenn ein wichtiger Grund vorliegt. Der Ausschluss erfolgt durch Beschluss des Hauptausschusses mit einfacher Mehrheit.  
+        2.  Ein Mitglied kann aus dem Verein ausgeschlossen werden, wenn ein wichtiger Grund vorliegt. Der Ausschluss erfolgt durch Beschluss des Hauptausschusses mit einfacher Mehrheit.
             Ausschließungsgründe sind insbesondere:
-            
+
             1.  grober oder wiederholter Verstoß des Mitglieds gegen die Satzung, gegen Ordnungen oder gegen Beschlüsse des Vereins.
             2.  schwere Schädigung des Ansehens des Vereins.
         3.  Die Entscheidung über den Ausschluss ist schriftlich zu begründen und dem Mitglied bekannt zu machen. Vor Inkrafttreten des Ausschlusses ist dem Mitglied innerhalb von 6 Wochen Gelegenheit zu geben, sich persönlich oder schriftlich gegenüber dem Hauptausschuss zu rechtfertigen. Gegen die Entscheidung des Hauptausschusses kann das Mitglied Widerspruch einlegen. Der Widerspruch muss innerhalb eines Monats ab Zugang des Ausschließungsbeschlusses, in der Geschäftsstelle, gerichtet an den Vorstand, schriftlich eingelegt werden. Ist der Widerspruch rechtzeitig eingelegt, so hat der Vorstand innerhalb von zwei Monaten den Hauptausschuss zur Entscheidung über den Widerspruch einzuberufen. Der Ausschluss tritt mit Beschluss des Hauptausschusses gegen den Widerspruch sofort in Kraft. Bis dahin ruht die Mitgliedschaft. Macht das Mitglied von dem Recht der Berufung gegen den Ausschließungsbeschluss keinen Gebrauch oder versäumt es die Berufungsfrist, so unterwirft es sich damit dem Ausschließungsbeschluss mit der Folge, dass die Mitgliedschaft als beendet gilt.
@@ -99,28 +99,27 @@ Satzung
         4.  die ordentliche Jahreshauptversammlung
         5.  die außerordentliche Hauptversammlung
     2.  Der Vorstand
-        1.  Der Vorstand i. S. von § 26 BGB setzt sich zusammen aus dem 1., 2. und 3. Vorsitzenden. Jeder hat Alleinvertretungsrecht.
+        1.  Der Vorstand i. S. von § 26 BGB setzt sich zusammen aus dem 1. und 2. Vorsitzenden. Jeder hat Alleinvertretungsrecht.
         2.  Der Vorstand erledigt die laufenden Vereinsangelegenheiten, leitet den Verein, beruft und leitet die Sitzungen des erweiterten Vorstands, des Hauptausschusses und der Jahreshauptversammlung. Er ist verantwortlich für die Vorbereitung und Einberufung der Jahreshauptversammlung, der Sitzungen des Hauptausschusses und erweiterten Vorstands sowie die Aufstellung der Tagesordnung, und ist verantwortlich für die Ausführung der Beschlüsse.
-        3.  Nur der Vorstand ist zur Unterzeichnung von Verträgen berechtigt, ebenso zur Unterzeichnung von Zuwendungs- und Spendenbescheinigungen, sowie für die Unterzeichnung von Wartungsverträgen und Verträgen zur Unterhaltung des Vereinsvermögens.  
-            Trainer- und Arbeitsverträge aller Abteilungen müssen vom Vorstand unterzeichnet werden.  
+        3.  Nur der Vorstand ist zur Unterzeichnung von Verträgen berechtigt, ebenso zur Unterzeichnung von Zuwendungs- und Spendenbescheinigungen, sowie für die Unterzeichnung von Wartungsverträgen und Verträgen zur Unterhaltung des Vereinsvermögens.
+            Trainer- und Arbeitsverträge aller Abteilungen müssen vom Vorstand unterzeichnet werden.
             Die betreffenden Verfügungsgrenzen sind in der Finanzordnung geregelt.
-        4.  Im Innenverhältnis gilt:  
-            Der 2. Vorsitzende ist dem Verein gegenüber verpflichtet, das Vorstandsamt nur bei Verhinderung des 1. Vorsitzenden auszuüben. Der 3. Vorsitzende ist dem Verein gegenüber verpflichtet, das Vorstandsamt nur bei Verhinderung des 1. und 2. Vorsitzenden auszuüben. Verhinderungen sind der Geschäftsstelle anzuzeigen. Einzelheiten werden in der Geschäftsordnung geregelt.
+        4.  Im Innenverhältnis gilt:
+            Der 2. Vorsitzende ist dem Verein gegenüber verpflichtet, das Vorstandsamt nur bei Verhinderung des 1. Vorsitzenden auszuüben. Verhinderungen sind der Geschäftsstelle anzuzeigen. Einzelheiten werden in der Geschäftsordnung geregelt.
     3.  Der erweiterte Vorstand
         1.  Der erweiterte Vorstand besteht aus:
             *   Mitglieder
                 1.  dem 1. Vorsitzenden
                 2.  dem 2. Vorsitzenden – zugleich Stellvertreter von a)
-                3.  dem 3. Vorsitzenden – zugleich Stellvertreter von b)
                 4.  dem Hauptkassierer
                 5.  dem Schriftführer
                 6.  dem technischen Leiter
                 7.  dem Vereinsjugendleiter
-            *   Von der Jahreshauptversammlung werden a) bis f) für 2 Jahre gewählt. a) und c) werden im selben Jahr, b) um ein Jahr versetzt gewählt.  
+            *   Von der Jahreshauptversammlung werden a) bis e) für 2 Jahre gewählt. a) und b) werden um ein Jahr versetzt gewählt.
                 Der von der Jugendvollversammlung für 2 Jahre gewählte Vereinsjugendleiter (g) wird von der Jahreshauptversammlung bestätigt.
-        2.  Die Beschlüsse des erweiterten Vorstands werden mit einfacher Mehrheit gefasst.  
-            Bei Stimmengleichheit entscheidet die Stimme des 1. Vorsitzenden.  
-            Über die Beschlüsse des erweiterten Vorstands ist ein Protokoll zu führen, das vom Schriftführer zu unterzeichnen ist.  
+        2.  Die Beschlüsse des erweiterten Vorstands werden mit einfacher Mehrheit gefasst.
+            Bei Stimmengleichheit entscheidet die Stimme des 1. Vorsitzenden.
+            Über die Beschlüsse des erweiterten Vorstands ist ein Protokoll zu führen, das vom Schriftführer zu unterzeichnen ist.
             Der erweiterte Vorstand ist beschlussfähig, wenn mindestens 4 Mitglieder des erweiterten Vorstands anwesend sind.
         3.  Scheidet während des Geschäftsjahres ein Mitglied des erweiterten Vorstands aus, so wird es durch Zuwahl eines Vereinsmitgliedes durch den Hauptausschuss ersetzt. Bei Ausscheiden einer der Vorstände laut BGB ist jedoch unverzüglich eine außerordentliche Hauptversammlung einzuberufen, die ein neues Vorstandsmitglied zu wählen hat. Wenn mehr als 2 Vorstandsmitglieder gleichzeitig ausscheiden, muss innerhalb von 4 Wochen eine Neuwahl stattfinden.
         4.  Die ehrenamtlichen Vorstandsmitglieder erhalten auf Nachweis die entstandenen Kosten für die Teilnahme an Schulungen sowie Fahrt- und Reisekosten ersetzt.
@@ -139,10 +138,10 @@ Satzung
             1.  den Mitgliedern des erweiterten Vorstands,
             2.  den Leitern der Abteilungen (Die Abteilungsleiter können im Verhinderungsfall durch ein Mitglied ihrer Abteilung vertreten werden),
             3.  12 weiteren gewählten Mitgliedern des Vereins,
-            4.  dem Vereinsjugendsprecher und der Vereinsjugendsprecherin
+            4.  den Vereinsjugendsprechern
         3.  Die Beschlüsse des Hauptausschusses werden mit einfacher Mehrheit gefasst.
         4.  Über die Beschlüsse des Hauptausschusses ist ein Protokoll zu führen, das vom Schriftführer zu unterzeichnen ist.
-        5.  Die Hauptausschusssitzungen werden vom 1. Vorsitzenden einberufen und geleitet.  
+        5.  Die Hauptausschusssitzungen werden vom 1. Vorsitzenden einberufen und geleitet.
             Sie müssen mindestens 1 x je Quartal stattfinden.
         6.  Zusätzlich ist eine Hauptausschusssitzung einzuberufen, wenn 50% der Hauptausschussmitglieder es verlangen.
         7.  Verfügungsgrenzen des Hauptausschusses für Ausgaben sind in der Finanzordnung geregelt.
@@ -159,22 +158,25 @@ Satzung
         8.  Die Abteilungen sind im Rahmen ihrer finanziellen Leistungsfähigkeit berechtigt, Aufwendungen für Helfer und Betreuer gemäß Satzung und Vereinsordnungen in angemessener Höhe zu vergüten.
     9.  Vereinsjugend
         1.  Die Vereinsjugend ist die Jugendorganisation des Vereins. Ihr gehören alle jugendli- chen Mitglieder an, alle regelmäßig und unmittelbar in der Vereinsjugend tätigen Mitarbeiter sowie die gewählten Mitglieder des Jugendvorstands.
-        2.  Die Vereinsjugend gibt sich eine Jugendordnung, die von der Jugendvollver- sammlung mit einer Mehrheit von 2/3 der anwesenden stimmberechtigten Mitglieder der Vereinsjugend beschlossen wird. Stimmberechtigt sind alle Mitglieder der Jugendvollversammlung, die das siebte Lebensjahr vollendet haben.  
+        2.  Die Vereinsjugend gibt sich eine Jugendordnung, die von der Jugendvollver- sammlung mit einer Mehrheit von 2/3 der anwesenden stimmberechtigten Mitglieder der Vereinsjugend beschlossen wird. Stimmberechtigt sind alle Mitglieder der Jugendvollversammlung, die das siebte Lebensjahr vollendet haben.
             Die Jugendordnung bedarf der Bestätigung durch den Hauptausschuss. Sie tritt frühestens mit der Bestätigung in Kraft.
         3.  Der Vereinsjugendleiter gehört dem erweiterten Vorstand an. Er wird von der Jugendvollversammlung für die Dauer von zwei Jahren gewählt und bedarf der Bestätigung durch die Jahreshauptversammlung.
     10.  Die ordentliche Jahreshauptversammlung
         1.  Jeweils bis zum 30.4. des neuen Geschäftsjahres findet eine ordentliche Jahreshauptversammlung statt. Sie ist vom 1.Vorsitzenden einzuberufen. Die Einberufung erfolgt im amtlichen Mitteilungsblatt der Stadt Beilstein. Die Veröffentlichung soll mindestens 2 Wochen vor dem Termin der Versammlung stattfinden.
-        2.  Die Tagesordnung hat zu enthalten:
+        2. Die Jahreshauptversammlung kann als Präsenzveranstaltung und/oder als virtuelle Versammlung stattfinden. Zur Präsenzveranstaltung treffen sich alle Teilnehmer an einem gemeinsamen Ort. Die virtuelle Versammlung erfolgt durch Einwahl der Teilnehmer in eine Video- oder Telefonkonferenz.
+        3. Eine Kombination von Präsenzversammlung und virtueller Versammlung ist zulässig, indem den Mitgliedern die Möglichkeit eröffnet wird, an der Präsenzveranstaltung mittels Video- oder Telefonkonferenz teilzunehmen.
+        4. Der Vorstand entscheidet über die Form der Versammlung und teilt diese in der Einladung zur Jahreshauptversammlung mit.
+        5.  Die Tagesordnung hat zu enthalten:
             1.  Geschäftsbericht durch den 1. Vorsitzenden
             2.  Kassenbericht durch den Hauptkassierer
             3.  Bericht der Kassenprüfer
             4.  Entlastung des Vorstands
             5.  Neuwahlen
             6.  Beschlussfassung über Anträge
-        3.  Anträge zur Tagesordnung müssen spätestens 1 Woche vor der Jahreshauptver- sammlung in der Geschäftsstelle z. H. des 1. Vorsitzenden eingereicht werden. Verspätet eingehende Anträge werden nicht mehr auf die Tagesordnung gesetzt. Ausgenommen hiervon sind Dringlichkeitsanträge, die mit dem Eintritt der Ereignisse begründet werden, welche nach Ablauf der Antragsfrist eingetreten sind. Abänderungsanträge zu fristgerecht eingereichten Anträgen können jederzeit eingebracht werden.
-        4.  Die Beschlüsse der Jahreshauptversammlung werden mit einfacher Mehrheit gefasst.Für Satzungsänderungen ist eine Mehrheit von 2/3 der anwesenden stimmberechtigten Mitglieder erforderlich. Wird eine Satzungsbestimmung, welche eine Voraussetzung der Anerkennung der Gemeinnützigkeit berührt, geändert, so ist das zuständige Finanzamt zu benachrichtigen.
-        5.  Über den Verlauf der Jahreshauptversammlung, insbesondere über die Beschlüsse, ist ein Protokoll zu führen, das vom Schriftführer und dem 1., 2. und 3. Vorsitzenden zu unterzeichnen ist.
-        6.  Beabsichtigte Ausgaben mit einem Wert von über € 8.000 müssen von der Jahreshauptversammlung genehmigt werden.
+        6.  Anträge zur Tagesordnung müssen spätestens 1 Woche vor der Jahreshauptver- sammlung in der Geschäftsstelle z. H. des 1. Vorsitzenden eingereicht werden. Verspätet eingehende Anträge werden nicht mehr auf die Tagesordnung gesetzt. Ausgenommen hiervon sind Dringlichkeitsanträge, die mit dem Eintritt der Ereignisse begründet werden, welche nach Ablauf der Antragsfrist eingetreten sind. Abänderungsanträge zu fristgerecht eingereichten Anträgen können jederzeit eingebracht werden.
+        7.  Die Beschlüsse der Jahreshauptversammlung werden mit einfacher Mehrheit gefasst.Für Satzungsänderungen ist eine Mehrheit von 2/3 der anwesenden stimmberechtigten Mitglieder erforderlich. Wird eine Satzungsbestimmung, welche eine Voraussetzung der Anerkennung der Gemeinnützigkeit berührt, geändert, so ist das zuständige Finanzamt zu benachrichtigen.
+        8.  Über den Verlauf der Jahreshauptversammlung, insbesondere über die Beschlüsse, ist ein Protokoll zu führen, das vom Schriftführer und dem 1., 2. und 3. Vorsitzenden zu unterzeichnen ist.
+        9.  Beabsichtigte Ausgaben mit einem Wert von über € 8.000 müssen von der Jahreshauptversammlung genehmigt werden.
     11.  Die außerordentliche Hauptversammlung
         1.  Eine außerordentliche Hauptversammlung findet statt, wenn der erweiterte Vorstand die Einberufung mit Rücksicht auf die Lage des Vereins oder mit Rücksicht auf außergewöhnliche Ereignisse für erforderlich hält.
         2.  Eine außerordentliche Mitgliederversammlung muss einberufen werden, wenn 10% der Mitglieder des Vereins es schriftlich unter Angabe der Gründe beim Vorstand beantragen.
@@ -186,20 +188,22 @@ Satzung
 4.  Ordnungen
     1.  Zur Durchführung dieser Satzung kann sich der Verein eine Geschäftsordnung, eine Finanzordnung, eine Beitragsordnung, eine Ehrenordnung und eine Benutzungsordnung geben. Der Hauptausschuss ist für den Erlass der Ordnungen zuständig. Ausgenommen davon sind die Geschäftsordnung, die vom erweiterten Vorstand zu beschließen ist sowie die Jugendordnung, die von der Vereinsjugend zu beschließen und vom Hauptausschuss zu bestätigen ist.
 5.  Datenschutz
-    1.  Mit dem Betritt eines Mitgliedes nimmt der Verein seine Adresse, sein Alter und seine Bankverbindung auf. Diese Informationen werden in dem vereinseigenen EDV- System gespeichert. Jedem Vereinsmitglied wird eine Mitgliedsnummer zugeordnet. Die personenbezogenen Daten werden dabei durch geeignete technische und organisatorische Maßnahmen vor der Kenntnisnahme Dritter geschützt.
-    2.  Als Mitglied des Württembergischen Landessportbundes e. V. (WLSB) und weiterer Fachverbände ist der Verein verpflichtet, seine Mitglieder an diese Verbände zu melden. Übermittelt werden dabei Vor- und Nachname, das Geburtsdatum, das Geschlecht, ausgeübte Sportarten und die Vereinsmitgliedsnummer.
+    1. Unter Beachtung der gesetzlichen Vorgaben und Bestimmungen der EU- Daten- schutz-Grundverordnung (DSGVO) und des Bundesdatenschutzgesetzes (BDSG) werden zur Erfüllung der Zwecke und Aufgaben des Vereins personenbezogene Da- ten über persönliche und sachliche Verhältnisse der Mitglieder des Vereins erhoben und in dem vereinseigenen EDV-System gespeichert, genutzt und verarbeitet.
+    2. Sonstige Informationen zu den Mitgliedern und Informationen über Nichtmitglieder werden grundsätzlich nur verarbeitet oder genutzt, wenn sie zur Förderung des Ver- einszwecks nützlich sind (wie etwa Telefon, Fax und E-Mail) und keine Anhaltspunkte bestehen, dass die betroffene Person ein schutzwürdiges Interesse hat, das der Ver- arbeitung oder Nutzung entgegensteht. Absatz (2) Satz 4 gilt entsprechend.
+    3. Mit dem Betritt eines Mitgliedes nimmt der Verein alle für die Mitgliedschaft im Verein relevanten Daten (Name, Anschrift, Geburtsdatum, Bankverbindung) auf. Diese Informationen werden in dem vereinseigenen EDV- System gespeichert. Jedem Vereinsmitglied wird eine Mitgliedsnummer zugeordnet. Die personenbezogenen Daten werden dabei durch geeignete technische und organisatorische Maßnahmen vor der Kenntnisnahme Dritter geschützt.
+    4.  Als Mitglied des Württembergischen Landessportbundes e. V. (WLSB) und weiterer Fachverbände ist der Verein verpflichtet, seine Mitglieder an diese Verbände zu melden. Übermittelt werden dabei Vor- und Nachname, das Geburtsdatum, das Geschlecht, ausgeübte Sportarten und die Vereinsmitgliedsnummer.
 6.  Schlussbestimmungen
     1.  Auflösung des Vereins
         1.  Die Auflösung des Vereins kann nur in der Jahres- oder außerordentlichen Hauptversammlung beschlossen werden, auf deren Tagesordnung die Beschlussfassung über die Vereinsauflösung den Mitgliedern fristgerecht angekündigt ist. In dieser Versammlung müssen 4/5 der stimmberechtigten Vereinsmitglieder anwesend sein. Kommt eine Beschlussfassung nicht zustande, so ist innerhalb von vier Wochen eine außerordentliche Hauptversammlung einzuberufen, die ohne Rücksicht auf die Zahl der anwesenden Mitglieder beschlussfähig ist. Darauf ist bei der Einberufung hinzuweisen. Der Beschluss bedarf einer Mehrheit von 3/4 der erschienenen stimmberechtigten Mitglieder.
         2.  Für den Fall der Auflösung bestellt die Jahreshauptversammlung 2 Liquidatoren, die die Geschäfte des Vereins abzuwickeln haben. Bei Auflösung des vereins oder bei Wegfall steuerbegünstigter Zwecke fällt das verbleibende Vermögen an die Stadt Beilstein, die es unmittelbar und ausschließlich für gemeinnützige Zwecke zu verwenden hat.
     2.  Inkrafttreten der SatzungDie vorstehende Satzung mit Anhang tritt mit sofortiger Wirkung an die Stelle der bisherigen Vereinssatzung.
 
-Beilstein, den 24. April 2015  
+Beilstein, den 24. April 2015
 Armin Maurer Bernhard Rode
 
 Die Eintragung in das Vereinsregister Nr. 1009 wurde heute vollzogen. Heilbronn, 25. Februar 1981 – Amtsgericht – Registergericht gez. Hofmann, RPfl
 
-In das VR 1009 wurde folgendes eingetragen:  
+In das VR 1009 wurde folgendes eingetragen:
 Die Mitgliederversammlung vom 11.03.1983 hat die Zusammenfassung der §§ 6 und 7 d. S. zu § 6, die Ergänzung um § 7 sowie die Änderung § 14 beschlossen (a. Urkunde w.-Bezug gen.)
 
 Heilbronn, den 18.04.1983 – Amtsgericht – Registergericht gez. Beetz RPfl.
@@ -234,13 +238,13 @@ Am 24. April 2014 gehören dem TGV „Eintracht“ Beilstein 1823 e.V. folgende 
 *   Turnen
 *   Die Sparten Leichtathletik, Volleyball und Karate werden von der Abteilung Turnen bis auf weiteres kommissarisch mitverwaltet.
 
-Württ. Landessportbund e. V. Stuttgart mit Sportkreis Heilbronn, Nr.10016 Schwäbischer Chorverband e. V. Stuttgart mit Sängergau Heilbronn, Nr. 260500700 Handballverband Württemberg e.V. Stuttgart  
-Schwäbischer Skiverband e. V. Stuttgart  
-Schwäbischer Turnerbund e. V. Stuttgart mit Turngau Heilbronn  
-Württembergischer Fußballverband e. V. Stuttgart  
-Württembergischer Leichtathletik-Verband e. V. Stuttgart  
-Schwimmverband Württemberg e. V. Stuttgart  
-Württembergischer Tennis-Bund e. V. Stuttgart  
+Württ. Landessportbund e. V. Stuttgart mit Sportkreis Heilbronn, Nr.10016 Schwäbischer Chorverband e. V. Stuttgart mit Sängergau Heilbronn, Nr. 260500700 Handballverband Württemberg e.V. Stuttgart
+Schwäbischer Skiverband e. V. Stuttgart
+Schwäbischer Turnerbund e. V. Stuttgart mit Turngau Heilbronn
+Württembergischer Fußballverband e. V. Stuttgart
+Württembergischer Leichtathletik-Verband e. V. Stuttgart
+Schwimmverband Württemberg e. V. Stuttgart
+Württembergischer Tennis-Bund e. V. Stuttgart
 Tischtennisverband Württemberg Hohenzollern e. V.
 
 Druckdatum: 5. Februar 2015
