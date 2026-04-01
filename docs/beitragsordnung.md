@@ -42,11 +42,11 @@ Der fällige Vereinsbeitrag muss jährlich im Januar beglichen werden. Bei ertei
 
 | Kategorie | Beitrag |
 |---|---|
-| Erwachsene | 60,00 € |
-| Zweitmitglieder (Ehe-/Lebenspartner) | 35,00 € |
-| Kinder bis 18 Jahren | 25,00 € |
-| Auszubildende, Schüler und Studenten 18–25 Jahre* | 30,00 € |
-| Familien** | 100,00 € |
+| Erwachsene | 80,00 € |
+| Zweitmitglieder (Ehe-/Lebenspartner) | 45,00 € |
+| Kinder bis 18 Jahren | 35,00 € |
+| Auszubildende, Schüler und Studenten 18–25 Jahre* | 35,00 € |
+| Familien** | 130,00 € |
 
 \* Bescheinigungen sind bis 31.12. des Jahres bei der Geschäftsstelle vorzulegen.
 \*\* Ein Kind aus Familienmitgliedschaft wird im Jahr nach Volljährigkeit als Erstmitglied weitergeführt, wenn keine Bescheinigung für die Ermäßigung vorliegt.
@@ -72,7 +72,7 @@ Beitragsbefreiung auf Antrag für Mitglieder ab 60 Jahren.
 
 | Kategorie | Beitrag |
 |---|---|
-| Aktive | 50,00 € |
+| Aktive | 70,00 € |
 | Passive | 0,00 € |
 
 ### Schwimmen
@@ -87,8 +87,7 @@ Beitragsbefreiung auf Antrag für Mitglieder ab 60 Jahren.
 
 | Kategorie | Beitrag |
 |---|---|
-| Jugendliche 12–18 Jahre | 50,00 € |
-| Erwachsene 18–50 Jahre | 50,00 € |
+| Abteilungsbeitrag | 50,00 € |
 
 ### Tischtennis
 
@@ -114,11 +113,18 @@ Beitragsbefreiung auf Antrag für Mitglieder ab 60 Jahren.
 
 | Kategorie | Beitrag |
 |---|---|
-| Kinderturnen/Leichtathletik | 30,00 € |
-| 2. Kind | 15,00 € |
+| Kinderturnen/Leichtathletik | 50,00 € |
+| 2. Kind | 30,00 € |
 | Ab dem 3. Kind | 0,00 € |
-| Eltern-Kind-Turnen | 10,00 €/Kind |
-| Jedermann Sport | 30,00 € |
+| Eltern-Kind-Turnen | 25,00 €/Kind |
+| Jedermänner | 50,00 € |
+| Tang Soo Doo Kursbeitrag | – |
+
+### Gymnastik
+
+| Kategorie | Beitrag |
+|---|---|
+| Abteilungsbeitrag | 15,00 € |
 
 Mahngebühren werden wie folgt erhoben:
 
